@@ -1,2 +1,2 @@
-pygame==2.3.0
+pygame==2.5.2
 pygame-menu==4.4.2
